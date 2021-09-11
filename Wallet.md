@@ -36,3 +36,5 @@ If a transaction uses more computation, more gas you have to pay..
 Every transaction that happen on block chain, pays a gas fee to node operators.
 https://www.youtube.com/watch?v=M576WGiDBdQ
 
+Price fluctuates with demand
+
