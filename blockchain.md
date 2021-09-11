@@ -3,11 +3,16 @@
 
 ### Decentralize
 bank (freeze ur funds)
+
 Robinhood (stopped trading of stock..)
+
 Each node is running its own block chain software.
 
 Node operators(runs programs) - Individuals
+
 Node - single instance in a decentralize network
+
+Nodes - keeps list of transaction that occur on chain.
 
 ### Transparency and flexibility
 Everything happening on chain can see
