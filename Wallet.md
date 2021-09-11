@@ -38,3 +38,9 @@ https://www.youtube.com/watch?v=M576WGiDBdQ
 
 Price fluctuates with demand
 
+
+Private and public key
+======================
+With Every wallet there is a associated private key and public key - known to everyone..
+Transactions are signed by using private key and can be verified by using public key..
+
