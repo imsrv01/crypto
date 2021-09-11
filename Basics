@@ -1,5 +1,6 @@
 
 
+
 ## Investing strategy
 
 - Invest only that you can efford to loose
@@ -14,9 +15,13 @@
 
 ## Smart Contract
 
+- Contracts written in code instead of Pen/paper
+- build smart contracts on block chain
+- Smart contracts need external data, blockchain oracles brings this data (Chainlink)
+
 # Defi
 
-# DAPP
+# DAPP (Decentralized application)
 
 # Proof of stake v/s proof of work
 
