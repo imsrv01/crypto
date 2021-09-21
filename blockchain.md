@@ -1,3 +1,23 @@
+## Overview
+
+Blockchain is a costantly growing ledger that keep a permanent record of all the transactions that have taken place, in a secure, chronological and immutable way
+
+The bitcoin blockchain is a distributed database that contains a continuously-growing and tamper-evident list of all Bitcoin transactions and records since the date of its initial release in January of 2009.
+
+Bitcoin chain DB size - 355 GB
+
+Block Size (Average) - 1 to 2 MB
+
+Transactions per block (Average ) - 1 to 3 K
+
+Total Tranasaction so far - 670 Million
+
+Confirmation time - 5 to minutes
+
+Per block mining rewards - 6.25 bitcoin
+
+
+https://www.blockchain.com/charts/blocks-size
 
 ## Features
 
