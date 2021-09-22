@@ -174,3 +174,36 @@ DAC - Decentralized autonomous corporation
 
 - Improves scalability without improving block size
 
+- Digital signature is not added as part of the transaction, reduces transaction size by 60 %
+
+
+## Halving
+
+Every 4 year reward is reduced by half
+
+2009 - 50 bitcoins 
+
+2012 - 25 bitcoins
+
+2016 - 12.5
+
+2020 - 6.25
+
+2140 - last bitcoin mining date
+
+## When all blocks are mined , what will happen ?
+
+- Miners mining the block will get all transaction fees for that block
+
+- Over time price of bitcoin will increase and more frequent transactions will be performed
+
+
+## Santoshi
+
+
+## Merkle Trees
+
+- Merkle root
+
+- Block transactions hashes - represented as a tree
+
